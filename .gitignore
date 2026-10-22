@@ -1,0 +1,7 @@
+node_modules/
+dist/
+server/data/orders.json
+server/data/subscribers.json
+server/data/*.tmp
+.env
+.DS_Store
